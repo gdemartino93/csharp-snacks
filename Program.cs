@@ -137,7 +137,21 @@
             //}
             //Console.WriteLine(sum);
 
+            ///Snack9.Crea un array vuoto e chiedi all’utente un numero da inserire nell’array. Continua a chiedere i numeri all’utente e a inserirli nell’array,
+            ////fino a quando la somma degli elementi è minore di 50.
 
+            //List <int> numeri = new List<int>();
+            //int sum = 0;
+
+            //do
+            //{
+            //    Console.WriteLine("Insiersci numero");
+            //    int x = Convert.ToInt32(Console.ReadLine());
+            //    sum += x;
+            //} while (sum < 50);
+            //Console.WriteLine($"la somma è {sum}");
+
+            ////Snack10.Fai inserire un numero, che chiameremo N, all’utente. Genera N array, ognuno formato da 10 numeri casuali tra 1 e 100.
 
 
 
