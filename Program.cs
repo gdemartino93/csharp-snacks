@@ -146,7 +146,6 @@
 ////Snack10.Fai inserire un numero, che chiameremo N, all’utente. Genera N array, ognuno formato da 10 numeri casuali tra 1 e 100.
 ////Ogni volta che ne crei uno, stampalo a schermo
 
-
 //Console.WriteLine("Inserisci numero");
 //int n = Convert.ToInt32(Console.ReadLine());
 //var rand = new Random();
@@ -162,3 +161,32 @@
 //    }
 //    Console.WriteLine();
 //}
+
+// Snack 11
+//Dare la possibilità di inserire due parole. Verificare tramite una funzione che le due parole abbiano la stessa lunghezza. Se hanno la stessa lunghezza, stamparle entrambe, altrimenti stampare la più lunga delle due.
+/////
+//Console.WriteLine("Inserisci prima parola");
+//string x = Console.ReadLine();
+//Console.WriteLine("Inserisci seconda parola");
+//string y = Console.ReadLine();
+
+// string LunghezzaParole(string prima, string seconda)
+//{
+//    if (prima.Length == seconda.Length)
+//    {
+//        return prima + " " + seconda;
+//    }
+//    else
+//    {
+//        if (prima.Length > seconda.Length)
+//        {
+//            return prima;
+//        }
+//        else
+//        {
+//            return seconda;
+//        }
+//    }
+//};
+
+//Console.WriteLine(LunghezzaParole(x,y));
