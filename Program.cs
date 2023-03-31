@@ -190,3 +190,19 @@
 //};
 
 //Console.WriteLine(LunghezzaParole(x,y));
+
+//Snack 12
+//Scrivere una funzione per verificare se un numero è pari o dispari. Quindi chiedere un numero all’utente e comunicargli se è pari o dispari.
+
+string PariDispari(int x)
+{
+    if (x % 2 == 0)
+    {
+        return "Pari";
+    }
+    else
+        return "Dispari";
+}
+Console.WriteLine("Insiersci numero");
+int numero = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(PariDispari(numero));
