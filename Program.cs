@@ -49,7 +49,17 @@
             //    somma += numero; 
             //}
             //Console.WriteLine(somma);
+            //////Snack4. Calcola la somma e la media dei numeri da 2 a 10.
+            ///
+            //List <int> numeri = new List<int>();
 
+            //for (int i = 2; i < 11; i++)
+            //{
+            //    numeri.Add(i); 
+            //}
+            //int sum = (int)numeri.Sum();
+            //int avg = (int)numeri.Average();
+            //Console.WriteLine($"La media dei numeri da 2 a 10 è {avg}. La somma è {sum}");
         }
     }
 }
