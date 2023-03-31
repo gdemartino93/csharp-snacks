@@ -74,6 +74,34 @@
             //{
             //    Console.WriteLine(x + 1);
             //}
+            ////Snack6.In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby. Chiedi all’utente il suo nome e comunicagli se può partecipare o meno alla festa.
+
+
+            //List<string> invitati = new List<string>()
+            //{
+            //    "Sara","Luca","Paolo"
+            //};
+            //bool? puoEntrare = null;
+            //Console.WriteLine("Inserisci il tuo nome");
+            //string nome = Console.ReadLine();
+
+            //foreach(string invitato in invitati)
+            //{
+            //    if(invitato.ToLower() == nome.ToLower())
+            //    {
+            //        puoEntrare = true;
+            //        Console.WriteLine("Puoi entrare");
+            //        break;
+            //    }
+            //    else
+            //    {
+            //       puoEntrare = false;
+            //    }
+            //}
+            //if (puoEntrare == false)
+            //{
+            //    Console.WriteLine("Non puoi entrare");
+            //};
 
 
 
