@@ -102,7 +102,27 @@
             //{
             //    Console.WriteLine("Non puoi entrare");
             //};
+            ////Snack7.Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è dispari inseriscilo nell’array.
 
+            //List <int> dispari = new List <int> ();
+
+            //for(int i = 0; i < 6; i++)
+            //{
+            //    Console.WriteLine("Inserisci un numero");
+            //    int x = Convert.ToInt32(Console.ReadLine());
+            //    if ( x % 2 == 0)
+            //    {
+            //        continue;
+            //    }
+            //    else
+            //    {
+            //        dispari.Add(x);
+            //    }
+            //}
+            //foreach (int x in dispari)
+            //{
+            //    Console.WriteLine(x);
+            //}
 
 
 
