@@ -124,6 +124,18 @@
             //    Console.WriteLine(x);
             //}
 
+            ////Snack8. Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari.
+
+            //int[] numeri = { 1 , 2, 1, 4, 1,1 };
+            //int sum = 0;
+            //for(int i = 0; i < numeri.Length; i++)
+            //{
+            //    if (i % 2 != 0)
+            //    {
+            //        sum += numeri[i];
+            //    }
+            //}
+            //Console.WriteLine(sum);
 
 
 
