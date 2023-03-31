@@ -60,6 +60,40 @@
             //int sum = (int)numeri.Sum();
             //int avg = (int)numeri.Average();
             //Console.WriteLine($"La media dei numeri da 2 a 10 è {avg}. La somma è {sum}");
+
+            ////Snack5.Il software chiede all’utente di inserire un numero. Se il numero inserito è pari,stampa il numero, se è dispari, stampa il numero successivo.
+
+            //Console.WriteLine("Inserisci il numero");
+            //int x = Convert.ToInt32(Console.ReadLine());
+
+            //if(x % 2 == 0)
+            //{
+            //    Console.WriteLine(x);
+            //}
+            //else
+            //{
+            //    Console.WriteLine(x + 1);
+            //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
